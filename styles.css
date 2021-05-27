@@ -1,0 +1,30 @@
+
+
+h1{
+    color:cadetblue;
+}
+
+.friend > h3 {
+
+    text-transform: uppercase;
+}
+
+body {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: large;
+    color:rgb(220, 216, 214);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+      1px 1px 0 #000;
+    background-size:cover;
+    background-image: url(https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/from-the-cosmos-to-the-clinic-a-new-type-of-dna-is-created-315723.jpg);
+    background-color: darkslategrey;
+  }
+
+.friend{
+    border: 3px solid rgb(16, 18, 19);
+    border-radius: 4%;
+    background-image: url(https://i.ytimg.com/vi/8sAWtVH80-Q/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
